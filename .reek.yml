@@ -1,0 +1,7 @@
+# Directories and files below will not be scanned at all
+exclude_paths:
+  - test/
+  - app/channels
+  - config/
+  - app/mailers/
+  - app/jobs/
